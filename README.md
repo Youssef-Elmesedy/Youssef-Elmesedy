@@ -113,9 +113,9 @@
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssefelmesedy&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefelmesedy&layout=compact&theme=radical" />
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=youssefelmesedy.youssefelmesedy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youssef-Elmesedy&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elmesedy&layout=compact&theme=radical" />
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Elmesedy.Youssef-Elmesedy" />
 </p>
 
 ---
@@ -127,7 +127,7 @@
   <tr> 
     <!-- MarketPOS.API -->
     <td align="center" width="50%" valign="top"> 
-      <a href="https://github.com/youssefelmesedy/MarketPOS.API" target="_blank">
+      <a href="https://github.com/Youssef-Elmesedy/MarketPOS.API" target="_blank">
         <img src="https://img.icons8.com/fluency/48/pos-terminal.png" alt="POS Icon" />
         <br /> <strong>🛒 MarketPOS.API</strong> </a> <br /><br /> 
       <sub> 
@@ -149,7 +149,7 @@
     </td>
 <!-- Swanie -->
 <td align="center" width="50%" valign="top">
-  <a href="https://github.com/youssefelmesedy/Swanie.API" target="_blank">
+  <a href="https://github.com/Youssef-Elmesedy/Swanie.API" target="_blank">
     <img src="https://img.icons8.com/fluency/48/workers-male.png" alt="Craftsmen Icon" />
     <br />
     <strong>🧰 Swanie</strong>
@@ -181,7 +181,7 @@
            width="90%" />
     </td>
     <td align="right" width="50%">
-      <img src="https://github.com/youssefelmesedy/youssefelmesedy/blob/main/assets/Image.png" 
+      <img src="https://github.com/Youssef-Elmesedy/Youssef-Elmesedy/blob/main/assets/Image.png" 
            alt="Left Image" 
            width="90%" />
     </td>
@@ -194,9 +194,9 @@
 ### 🐍 Contributions Snake
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youssefelmesedy/youssefelmesedy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youssefelmesedy/youssefelmesedy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/youssefelmesedy/youssefelmesedy/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssef-Elmesedy/Youssef-Elmesedy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssef-Elmesedy/Youssef-Elmesedy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Youssef-Elmesedy/Youssef-Elmesedy/output/pacman-contribution-graph.svg">
   </picture>
 
 </p>
@@ -205,9 +205,9 @@
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yousef-elmesedy-46b566291)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/youssefelmesedy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefelmesedy6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yousefelmesedy-46b566291)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Youssef-Elmesedy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmesedyyousef72@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201018833877)
 
 ---
