@@ -130,10 +130,10 @@
       <img height="180em"
         src="https://github-readme-stats.vercel.app/api?username=Youssef-Elmesedy&show_icons=true&theme=radical&count_private=true" />
     </td>
-    <td>
-      <img height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elmesedy&layout=compact&theme=radical" />
-    </td>
+   <td>
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elmesedy&layout=compact&theme=radical&langs_count=10&hide=html,css,scss&exclude_repo=the-doctor-shows-the-icon-of-the-protection-of-health" />
+</td>
   </tr>
 </table>
 
