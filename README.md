@@ -18,27 +18,18 @@
 
 <h2 align="left">👨‍💻 <span style="color:#38BDF8;">About Me</span></h2>
 
-<p align="left" style="font-family:'Fira Code', monospace; color:#d6dee9; font-size: 16px;">
-  🚀 <strong style="color:#7dd3fc;">.NET Developer</strong> passionate about building 
-  <span style="color:#a5f3fc;">clean</span>, <span style="color:#6ee7b7;">scalable</span>, and 
-  <span style="color:#facc15;">maintainable</span> applications.
-</p>
+🚀 Backend-focused .NET Developer passionate about building enterprise-grade applications using Clean Architecture, CQRS, and Domain-Driven Design.
 
-<p align="left" style="font-family:'Fira Code', monospace; color:#d6dee9; font-size: 16px;">
-  🛠️ I specialize in <span style="color:#38BDF8;">Clean Architecture</span>, 
-  <span style="color:#60A5FA;">SOLID</span> principles, <span style="color:#F87171;">CQRS</span>, 
-  and <span style="color:#FBBF24;">Domain-Driven Design</span>.
-</p>
+💡 I enjoy solving complex business problems through scalable and maintainable software solutions.
 
-<p align="left" style="font-family:'Fira Code', monospace; color:#d6dee9; font-size: 16px;">
-  💻 Proficient in <strong style="color:#A78BFA;">ASP.NET Core</strong>, 
-  <strong style="color:#34D399;">EF Core</strong>, <strong style="color:#F472B6;">Angular</strong>, 
-  <strong style="color:#F59E0B;">Blazor</strong>, and <strong style="color:#38BDF8;">modern Web APIs</strong>.
-</p>
+🏗 Currently building production-ready systems featuring:
+- Trust & Reputation Engines
+- Risk Analysis Systems
+- Advanced Dashboard Aggregations
+- Review Moderation Workflows
+- Secure Authentication & Authorization
 
-<p align="left" style="font-family:'Fira Code', monospace; color:#d6dee9; font-size: 16px;">
-  💡 Always learning — currently exploring <span style="color:#FF6C37;">Rust 🦀</span> for backend development.
-</p>
+🌱 Currently exploring Rust and distributed backend systems.
 
 ---
 
@@ -110,6 +101,23 @@
 </p>
 
 ---
+## 🏆 Engineering Highlights
+
+✅ Built a Trust-Based Review Approval Engine
+
+✅ Implemented Weighted Rating Algorithms
+
+✅ Designed Multi-Dashboard CQRS Architecture
+
+✅ Developed Risk Score Detection System
+
+✅ Applied Clean Architecture + DDD (Lite)
+
+✅ Built Production-Ready JWT Authentication System
+
+✅ Implemented Proof-Gated Review Workflow
+
+---
 
 ### 🔥 GitHub Stats
 <p align="center">
@@ -120,74 +128,112 @@
 
 ---
 
-### 📌 Featured Projects – Clean UI Preview
+### 📌 Featured Projects – Clean UI Previewt
 
-<p align="center">
-<table align="center" width="100%">
-  <tr> 
-    <!-- MarketPOS.API -->
-    <td align="center" width="50%" valign="top"> 
-      <a href="https://github.com/Youssef-Elmesedy/MarketPOS.API" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/pos-terminal.png" alt="POS Icon" />
-        <br /> <strong>🛒 MarketPOS.API</strong> </a> <br /><br /> 
-      <sub> 
-        💼 <strong>
-          Supermarket POS System
-        </strong>
-        <br/>
-          <br />
-        ✅ Clean Architecture
-        <br />
-        ✅ CQRS & SOLID Principles
-        <br />
-        ✅ FluentValidation 
-        <br /> 
-        ✅ Multi-Unit Inventory Support 
-        <br />
-        ✅ Role-Based Discount Engine 
-      </sub>
-    </td>
-<!-- Swanie -->
-<td align="center" width="50%" valign="top">
-  <a href="https://github.com/Youssef-Elmesedy/Swanie.API" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/workers-male.png" alt="Craftsmen Icon" />
-    <br />
-    <strong>🧰 Swanie</strong>
-  </a>
-  <br /><br />
-  <sub>
-    🌐 <strong>Craftsmen Social Platform</strong><br /><br />
-    📍 Location-Based Prioritization <br />
-    💬 Messaging Between Users <br />
-    🎨 Portfolio Showcasing <br />
-    🧑‍🔧 Multiple Roles: Craftsman, Client, Company <br />
-    🔍 Smart Profile Discovery
-  </sub>
-</td>
-</tr> 
-</table>
+<div align="center">
 
----
+# 🛡️ Review Guard
 
-### 🖼️ Live Demo – Dual View (Before & After)
+### Tamper-Resistant Review Platform
 
-<h3 align="center">
+A production-ready backend platform that prevents fake reviews through proof verification, trust scoring, risk analysis, and weighted ratings.
+
+<img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Clean%20Architecture-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DDD-Lite-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CQRS-MediatR-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EF%20Core-8-purple?style=for-the-badge" />
+
+</div>
 
 <table>
-  <tr>
-    <td align="left" width="50%">
-      <img src="https://img.pikbest.com/wp/202348/software-development-3d-rendering-of-web-design-elements-with-indicators-for-internet-on-a-light-display-background_9775426.jpg!w700wp" 
-           alt="Right Image" 
-           width="90%" />
-    </td>
-    <td align="right" width="50%">
-      <img src="https://github.com/Youssef-Elmesedy/Youssef-Elmesedy/blob/main/assets/Image.png" 
-           alt="Left Image" 
-           width="90%" />
-    </td>
-  </tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏗 Architecture
+
+✅ Clean Architecture
+
+✅ Domain Driven Design (Lite)
+
+✅ CQRS + MediatR
+
+✅ FluentValidation
+
+✅ Result Pattern
+
+✅ Global Exception Middleware
+
+✅ Repository Pattern
+
+✅ JWT Authentication
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔥 Key Features
+
+✅ TrustScore Based User Levels
+
+✅ Weighted Rating System
+
+✅ Review Approval Matrix
+
+✅ Proof Of Purchase Verification
+
+✅ Risk Score Engine
+
+✅ Dashboard Aggregations
+
+✅ Admin Moderation System
+
+✅ Email Notification Service
+
+</td>
+
+</tr>
 </table>
 
+### 🎯 Business Logic Highlights
+
+| Feature | Description |
+|----------|------------|
+| User Levels | LowTrust, Normal, Trusted |
+| Risk Engine | Detects suspicious review behavior |
+| Weighted Rating | TrustScore-weighted reviews |
+| Proof System | Invoice / Receipt / Order ID |
+| Moderation | Admin review workflow |
+| Dashboard | User, Owner & Admin analytics |
+
+### 🔒 Security
+
+- JWT Authentication & Authorization
+- Role-Based Access Control
+- PBKDF2 Password Hashing
+- Audit Logging
+- IP Tracking
+- Anti-Spam Detection
+
+### 📊 Technical Highlights
+
+- .NET 8
+- SQL Server
+- Entity Framework Core
+- MediatR
+- FluentValidation
+- Swagger
+- Clean Architecture
+- DDD Lite
+- CQRS
+- Result Pattern
+
+### 🔗 Repository
+
+<a href="https://github.com/Youssef-Elmesedy/Review_Guard.Src">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" />
+</a>
 
 ---
 
