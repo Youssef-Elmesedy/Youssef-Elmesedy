@@ -218,7 +218,6 @@ A production-ready backend platform that prevents fake reviews through proof ver
 ---
 
 ### 🐍 Contributions Snake
-<p>
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Youssef-Elmesedy/Youssef-Elmesedy/output/github-contribution-grid-snake-dark.svg">
@@ -229,9 +228,6 @@ A production-ready backend platform that prevents fake reviews through proof ver
   <img alt="snake"
        src="https://raw.githubusercontent.com/Youssef-Elmesedy/Youssef-Elmesedy/output/github-contribution-grid-snake.svg">
 </picture>
-
-</p>
-
 ---
 
 ### 🌐 Let's Connect
