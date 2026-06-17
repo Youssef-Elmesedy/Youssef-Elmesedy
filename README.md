@@ -217,18 +217,6 @@ A production-ready backend platform that prevents fake reviews through proof ver
 
 ---
 
-### 🐍 Contributions Snake
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssef-Elmesedy/Youssef-Elmesedy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssef-Elmesedy/Youssef-Elmesedy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Youssef-Elmesedy/Youssef-Elmesedy/output/pacman-contribution-graph.svg">
-  </picture>
-
-</p>
-
----
-
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yousefelmesedy-46b566291)
