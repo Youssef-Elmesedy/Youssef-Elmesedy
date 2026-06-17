@@ -120,11 +120,23 @@
 ---
 
 ### 🔥 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youssef-Elmesedy&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elmesedy&layout=compact&theme=radical" />
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Elmesedy.Youssef-Elmesedy" />
-</p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youssef-Elmesedy&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elmesedy&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Elmesedy.Youssef-Elmesedy" />
+
+</div>
 
 ---
 
