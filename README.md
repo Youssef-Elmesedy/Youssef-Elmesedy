@@ -153,48 +153,28 @@ A production-ready backend platform that prevents fake reviews through proof ver
 
 ### 🏗 Architecture
 
-✅ Clean Architecture
+<p>
+<img src="https://img.shields.io/badge/Clean_Architecture-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/DDD_Lite-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/CQRS-green?style=flat-square" />
+<img src="https://img.shields.io/badge/MediatR-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/FluentValidation-success?style=flat-square" />
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square" />
+<img src="https://img.shields.io/badge/Repository_Pattern-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Result_Pattern-yellow?style=flat-square" />
+</p>
 
-✅ Domain Driven Design (Lite)
+### 🔥 Features
 
-✅ CQRS + MediatR
-
-✅ FluentValidation
-
-✅ Result Pattern
-
-✅ Global Exception Middleware
-
-✅ Repository Pattern
-
-✅ JWT Authentication
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔥 Key Features
-
-✅ TrustScore Based User Levels
-
-✅ Weighted Rating System
-
-✅ Review Approval Matrix
-
-✅ Proof Of Purchase Verification
-
-✅ Risk Score Engine
-
-✅ Dashboard Aggregations
-
-✅ Admin Moderation System
-
-✅ Email Notification Service
-
-</td>
-
-</tr>
-</table>
+<p>
+<img src="https://img.shields.io/badge/TrustScore_System-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Weighted_Ratings-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Risk_Engine-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Proof_Verification-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Admin_Moderation-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/Dashboards-cyan?style=flat-square" />
+<img src="https://img.shields.io/badge/Email_Service-yellow?style=flat-square" />
+</p>
 
 ### 🎯 Business Logic Highlights
 
