@@ -128,18 +128,20 @@
   <tr>
     <td>
       <img height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=Youssef-Elmesedy&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+        src="https://github-readme-stats.vercel.app/api?username=Youssef-Elmesedy&show_icons=true&theme=radical&count_private=true" />
     </td>
     <td>
       <img height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elmesedy&layout=compact&theme=radical&langs_count=8" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elmesedy&layout=compact&theme=radical" />
     </td>
   </tr>
 </table>
 
-<!-- Streak (Live Activity) -->
+<br/>
+
+<!-- Streak Stats (fixed service) -->
 <img width="95%"
-  src="https://github-readme-streak-stats.herokuapp.com?user=Youssef-Elmesedy&theme=radical&hide_border=false" />
+  src="https://streak-stats.demolab.com?user=Youssef-Elmesedy&theme=radical" />
 
 <br/>
 
@@ -149,9 +151,9 @@
 
 <br/>
 
-<!-- Activity Graph (Interactive Timeline) -->
+<!-- Activity Graph -->
 <img width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Elmesedy&theme=react-dark&hide_border=true" />
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Elmesedy&theme=react-dark" />
 
 <br/>
 
