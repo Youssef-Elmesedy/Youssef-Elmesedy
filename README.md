@@ -119,26 +119,45 @@
 
 ---
 
----
-
 ## 🏆 GitHub Stats & Activity
 
 <div align="center">
 
+<!-- GitHub Stats -->
 <table>
   <tr>
     <td>
-      <img height="170em"
-        src="https://github-readme-stats.vercel.app/api?username=Youssef-Elmesedy&show_icons=true&theme=radical" />
+      <img height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=Youssef-Elmesedy&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
     </td>
     <td>
-      <img height="170em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elmesedy&layout=compact&theme=radical" />
+      <img height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elmesedy&layout=compact&theme=radical&langs_count=8" />
     </td>
   </tr>
 </table>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Elmesedy.Youssef-Elmesedy" />
+<!-- Streak (Live Activity) -->
+<img width="95%"
+  src="https://github-readme-streak-stats.herokuapp.com?user=Youssef-Elmesedy&theme=radical&hide_border=false" />
+
+<br/>
+
+<!-- Profile Summary -->
+<img width="95%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-Elmesedy&theme=radical" />
+
+<br/>
+
+<!-- Activity Graph (Interactive Timeline) -->
+<img width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Elmesedy&theme=react-dark&hide_border=true" />
+
+<br/>
+
+<!-- Visitor Counter -->
+<img
+  src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Elmesedy.Youssef-Elmesedy" />
 
 </div>
 
