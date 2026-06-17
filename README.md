@@ -119,17 +119,21 @@
 
 ---
 
-### 🔥 GitHub Stats
+---
+
+## 🏆 GitHub Stats & Activity
 
 <div align="center">
 
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youssef-Elmesedy&show_icons=true&theme=radical" />
+      <img height="170em"
+        src="https://github-readme-stats.vercel.app/api?username=Youssef-Elmesedy&show_icons=true&theme=radical" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elmesedy&layout=compact&theme=radical" />
+      <img height="170em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elmesedy&layout=compact&theme=radical" />
     </td>
   </tr>
 </table>
@@ -140,103 +144,75 @@
 
 ---
 
-### 📌 Featured Projects – Clean UI Previewt
+## 📌 Featured Project
 
-<div align="center">
+### 🛡️ Review Guard – Tamper-Resistant Platform
 
-# 🛡️ Review Guard
-
-### Tamper-Resistant Review Platform
-
-A production-ready backend platform that prevents fake reviews through proof verification, trust scoring, risk analysis, and weighted ratings.
-
-<img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Clean%20Architecture-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DDD-Lite-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CQRS-MediatR-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/EF%20Core-8-purple?style=for-the-badge" />
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏗 Architecture
-
-<p>
-<img src="https://img.shields.io/badge/Clean_Architecture-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/DDD_Lite-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/CQRS-green?style=flat-square" />
-<img src="https://img.shields.io/badge/MediatR-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/FluentValidation-success?style=flat-square" />
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square" />
-<img src="https://img.shields.io/badge/Repository_Pattern-red?style=flat-square" />
-<img src="https://img.shields.io/badge/Result_Pattern-yellow?style=flat-square" />
+<p align="center">
+  Built with Clean Architecture, CQRS, and Trust-Based Review System
 </p>
+
+<table align="center">
+  <tr>
+    <td width="33%" valign="top">
+
+### ⚙️ Architecture
+- Clean Architecture  
+- CQRS + MediatR  
+- DDD Lite  
+- Repository Pattern  
+- Result Pattern  
+- FluentValidation  
+
+</td>
+<td width="33%" valign="top">
 
 ### 🔥 Features
+- Trust Score System  
+- Weighted Ratings  
+- Fraud Detection Engine  
+- Proof Verification  
+- Admin Moderation  
+- Analytics Dashboard  
 
-<p>
-<img src="https://img.shields.io/badge/TrustScore_System-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Weighted_Ratings-green?style=flat-square" />
-<img src="https://img.shields.io/badge/Risk_Engine-red?style=flat-square" />
-<img src="https://img.shields.io/badge/Proof_Verification-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Admin_Moderation-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/Dashboards-cyan?style=flat-square" />
-<img src="https://img.shields.io/badge/Email_Service-yellow?style=flat-square" />
-</p>
+</td>
+<td width="33%" valign="top">
 
-### 🎯 Business Logic Highlights
+### 🔐 Security
+- JWT Auth  
+- Role-Based Access  
+- PBKDF2 Hashing  
+- Audit Logging  
+- Anti-Spam System  
+- IP Tracking  
 
-| Feature | Description |
-|----------|------------|
-| User Levels | LowTrust, Normal, Trusted |
-| Risk Engine | Detects suspicious review behavior |
-| Weighted Rating | TrustScore-weighted reviews |
-| Proof System | Invoice / Receipt / Order ID |
-| Moderation | Admin review workflow |
-| Dashboard | User, Owner & Admin analytics |
+</td>
+  </tr>
+</table>
 
-### 🔒 Security
+---
 
-- JWT Authentication & Authorization
-- Role-Based Access Control
-- PBKDF2 Password Hashing
-- Audit Logging
-- IP Tracking
-- Anti-Spam Detection
+### 🧰 Tech Stack
+.NET • EF Core • SQL Server • MediatR • FluentValidation • Swagger
 
-### 📊 Technical Highlights
+---
 
-- .NET 8
-- SQL Server
-- Entity Framework Core
-- MediatR
-- FluentValidation
-- Swagger
-- Clean Architecture
-- DDD Lite
-- CQRS
-- Result Pattern
-
-### 🔗 Repository
-
-<a href="https://github.com/Youssef-Elmesedy/Review_Guard.Src">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" />
-</a>
+### 🔗 Project
+👉 [Review Guard Repository](https://github.com/Youssef-Elmesedy/Review_Guard.Src)
 
 ---
 
 ### 🌐 Let's Connect
+
+<p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yousefelmesedy-46b566291)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Youssef-Elmesedy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmesedyyousef72@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201018833877)
 
+</p>
+
 ---
 
-> 💡 *"Clean Code is not just about syntax, it's about respect for your future self."*
-
+> 💡 Clean Code is not about syntax, it's about readability and respect for your future self.
