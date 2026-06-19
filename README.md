@@ -219,7 +219,7 @@
 ---
 
 ### 🔗 Project
-👉 [Review Guard Repository](https://github.com/Youssef-Elmesedy/Review_Guard.Src)
+👉 [Review Guard Repository](https://github.com/Youssef-Elmesedy/Review_Guard)
 
 ---
 
